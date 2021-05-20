@@ -11,8 +11,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 [Contribution Guidelines](#contribution-guidelines) 
-
-[Tests](#tests) 
  
 [Questions](#questions)
 
